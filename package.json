@@ -1,0 +1,16 @@
+{
+  "name": "videoplayer",
+  "version": "1.0.0",
+  "description": "an app that helps to play video along with other features",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mongoDB",
+    "express"
+  ],
+  "author": "Divyaraj Parmar",
+  "license": "ISC"
+}
